@@ -1,6 +1,2 @@
 # medipro
 
-```
-vi test.txt
-```
-
